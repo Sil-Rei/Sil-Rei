@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Silas</h1>
 <h3 align="center">A passionate full stack developer from germany</h3>
 
-- 🔭 I’m currently working on [Graphite, a demo webshop for sustainable office supplies](https://graphite-shop.netlify.app/)
+- 🔭 My latest project is [Graphite, a demo webshop for sustainable office supplies](https://graphite-shop.netlify.app/)
 
 - 🌱 I’m currently learning **React and Redux**
 
-- 👨‍💻 All of my projects are available at [silasreiling.com](silasreiling.com)
+- 👨‍💻 All of my projects are available at [silasreiling.com](https://www.silasreiling.com/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
